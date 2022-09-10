@@ -357,29 +357,6 @@ const projects = {
       ],
     },
     {
-      id: "2",
-      img: "https://user-images.githubusercontent.com/97518972/165968184-1b6559ed-9537-4cd7-972c-21d8ca083296.png",
-      name: "Youtube-Clone",
-      url: "https://statuesque-bublanina-259565.netlify.app/",
-      gitreplink: "https://github.com/Bhavesh299/Youtube-colne",
-      description:
-        "User can serach the videos as well ad watch the video , I use Youtube Api for this project.",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-      ],
-    },
-    {
       id: "1",
       img: "https://user-images.githubusercontent.com/96133324/165300298-73db5bb3-a88e-4e60-868e-0d7add5e1c9b.png",
       name: "SnapDeal-Clone",
@@ -407,13 +384,13 @@ const projects = {
       ],
     },
     {
-      id: "3",
-      name: "Movie-App",
-      img: "https://user-images.githubusercontent.com/97518972/165994138-234c6233-0713-4017-af79-d3c4886561cf.png",
-      url: "https://frolicking-monstera-041234.netlify.app/",
-      gitreplink: "https://github.com/Bhavesh299/Movie-App",
+      id: "2",
+      name: "Ssense-Clone",
+      img: "https://user-images.githubusercontent.com/97461783/167412516-fb7700f9-d0e4-4732-9df6-9c11dfd2614d.png",
+      url: "https://ssenseprojectclone.vercel.app/",
+      gitreplink: "https://github.com/Bhavesh299/Ssense_Clone",
       description:
-        "This is an Movie App, Where user can see the movies and tv shows.",
+        "This is clone website of Ssense.com. Ssense is an e-commerse website where user can buy all kinds of Fashion products.",
       languages: [
         {
           name: "HTML5",
@@ -427,9 +404,37 @@ const projects = {
           name: "JavaScript",
           iconifyClass: "logos-javascript",
         },
+        {
+          name: "React Js",
+          iconifyClass: "logos-react",
+        },
       
       ],
     },
+    {
+      id: "3",
+      img: "https://user-images.githubusercontent.com/97518972/165968184-1b6559ed-9537-4cd7-972c-21d8ca083296.png",
+      name: "Youtube-Clone",
+      url: "https://statuesque-bublanina-259565.netlify.app/",
+      gitreplink: "https://github.com/Bhavesh299/Youtube-colne",
+      description:
+        "User can serach the videos as well ad watch the video , I use Youtube Api for this project.",
+      languages: [
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+      ],
+    },
+    
     {
       id: "4",
       name: "Weather-App",
