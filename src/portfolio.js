@@ -13,7 +13,7 @@ const greeting = {
   nickname: "Bhavesh",
   full_name: "Bhavesh Chavhan",
   subTitle: "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
-  resumeLink: "https://drive.google.com/drive/u/0/recent",
+  resumeLink: "https://drive.google.com/drive/u/0/recenthttps://drive.google.com/file/d/1aq2CmYuaSLCe_8u1hblkazc7mzfcx3mK/view?usp=sharing",
   mail: "bhaveshchavan299@gmail.com",
 };
 
