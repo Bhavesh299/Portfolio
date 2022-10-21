@@ -83,7 +83,7 @@ function Header(props) {
                 className="homei"
                 to="/home"
                 tag={Link}
-                activeStyle={{ fontWeight: "bold" }}
+                activeStyle={{  }}
                 style={{ borderRadius: 5, color: theme.text }}
               >
                 Home
@@ -97,7 +97,7 @@ function Header(props) {
                 titleElement.scrollIntoView({ behavior: 'smooth' })}}
                 to="/home"
                 tag={Link}
-                activeStyle={{ fontWeight: 'bold' }}
+                activeStyle={{  }}
                 style={{ borderRadius: 5, color: theme.text }}
               >
                 Skills
@@ -108,7 +108,7 @@ function Header(props) {
                 className="projects"
                 to="/projects"
                 tag={Link}
-                activeStyle={{ fontWeight: "bold" }}
+                activeStyle={{  }}
                 style={{ borderRadius: 5, color: theme.text }}
               >
                 Projects
@@ -119,7 +119,7 @@ function Header(props) {
                 className="xp"
                 to="/experience"
                 tag={Link}
-                activeStyle={{ fontWeight: "bold" }}
+                activeStyle={{ }}
                 style={{ borderRadius: 5, color: theme.text }}
               >
                 Experience
