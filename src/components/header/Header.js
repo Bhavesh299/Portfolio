@@ -131,7 +131,7 @@ function Header(props) {
                 className="cr"
                 to="/contact"
                 tag={Link}
-                activeStyle={{ fontWeight: "bold" }}
+                activeStyle={{  }}
                 style={{ borderRadius: 5, color: theme.text }}
               >
                 Contact and Resume
